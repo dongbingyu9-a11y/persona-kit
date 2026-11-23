@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.py.tmp
+.env
+upstreams.local.json
+persona.local.json
+.DS_Store
